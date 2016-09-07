@@ -4,3 +4,8 @@
 在PC上打开Index.html，点击方格并输入数值，点击Go计算出数独的解。
 
 Open the Index.html on the PC, click on the box and numerical input, click Go to calculate Sudoku solution.
+
+Like this:
+![image](https://github.com/poklau123/Sudoku-solver/Raw/master/screenshots/before.png)
+Go:
+![image](https://github.com/poklau123/Sudoku-solver/Raw/master/screenshots/end.png)
