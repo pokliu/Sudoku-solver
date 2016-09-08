@@ -6,6 +6,6 @@
 Open the Index.html on the PC, click on the box and numerical input, click Go to calculate Sudoku solution.
 
 Like this:
-![image](https://github.com/poklau123/Sudoku-solver/Raw/master/screenshots/before.png)
+![image](https://raw.githubusercontent.com/poklau123/Sudoku-solver/master/screenshots/before.png)
 Go:
-![image](https://github.com/poklau123/Sudoku-solver/Raw/master/screenshots/end.png)
+![image](https://raw.githubusercontent.com/poklau123/Sudoku-solver/master/screenshots/end.png)
