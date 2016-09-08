@@ -66,8 +66,11 @@ function Sudoku(table){
     this.table = table;
     this.data = new Object();
     this.init();
-    //求解    
+    //求解
+    var timeStart = new Date().getTime();
     while(this.calcu()){};
+    var timeEnd = new Date().getTime();
+    alert("Time user:"+timeEnd - timeStart+"ms");
 }
 //初始化
 Sudoku.prototype.init = function(){
