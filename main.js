@@ -70,7 +70,7 @@ function Sudoku(table){
     var timeStart = new Date().getTime();
     while(this.calcu()){};
     var timeEnd = new Date().getTime();
-    alert("Time user:"+timeEnd - timeStart+"ms");
+    alert("Time user:"+(timeEnd - timeStart)+"ms");
 }
 //初始化
 Sudoku.prototype.init = function(){
